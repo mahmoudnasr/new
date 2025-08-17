@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/master.swiftdeps"
+  },
+  "/home/runner/work/new/new/Tests/APIServiceTests.swift": {
+    "dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/APIServiceTests.d",
+    "object": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/APIServiceTests.swift.o",
+    "swiftmodule": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/APIServiceTests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/APIServiceTests.swiftdeps"
+  },
+  "/home/runner/work/new/new/Tests/ExpenseServiceTests.swift": {
+    "dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/ExpenseServiceTests.d",
+    "object": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/ExpenseServiceTests.swift.o",
+    "swiftmodule": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/ExpenseServiceTests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/ExpenseServiceTests.swiftdeps"
+  }
+}

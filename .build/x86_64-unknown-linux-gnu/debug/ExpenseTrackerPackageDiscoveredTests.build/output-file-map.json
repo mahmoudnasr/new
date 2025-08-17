@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/master.swiftdeps"
+  },
+  "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.derived/ExpenseTrackerTests.swift": {
+    "dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/ExpenseTrackerTests.d",
+    "object": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/ExpenseTrackerTests.swift.o",
+    "swiftmodule": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/ExpenseTrackerTests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/ExpenseTrackerTests.swiftdeps"
+  },
+  "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.derived/all-discovered-tests.swift": {
+    "dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/all-discovered-tests.d",
+    "object": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/all-discovered-tests.swift.o",
+    "swiftmodule": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/all-discovered-tests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerPackageDiscoveredTests.build/all-discovered-tests.swiftdeps"
+  }
+}
