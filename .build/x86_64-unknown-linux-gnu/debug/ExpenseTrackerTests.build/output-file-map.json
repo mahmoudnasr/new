@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/master.swiftdeps"
+  },
+  "/home/runner/work/new/new/Tests/ExpenseTests.swift": {
+    "dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/ExpenseTests.d",
+    "object": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/ExpenseTests.swift.o",
+    "swiftmodule": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/ExpenseTests~partial.swiftmodule",
+    "swift-dependencies": "/home/runner/work/new/new/.build/x86_64-unknown-linux-gnu/debug/ExpenseTrackerTests.build/ExpenseTests.swiftdeps"
+  }
+}
